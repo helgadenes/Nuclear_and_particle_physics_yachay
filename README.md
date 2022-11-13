@@ -20,9 +20,9 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
 ## Evaluation
 
-- Quizzes (+Homework) 40% of the grade
-- Midterm exam ~ around the 16th of January 2023 30% of the grade 
-- Final exam ~ around the 7th of March 2023 30% of the grade
+- Quizzes (+Homework), 40% of the grade
+- Midterm exam ~ around the 16th of January 2023, 30% of the grade 
+- Final exam ~ around the 7th of March 2023, 30% of the grade
 
 ## Recommended books
 
