@@ -2,6 +2,8 @@
 
 Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
+2022 semester 2
+
 ## Syllabus
 
 1. Introduction - Fermions, Bosons, and Fields	
