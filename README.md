@@ -26,8 +26,10 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
 ## Recommended books
 
-Krane, Kenneth: Introductory Nuclear Physics.
+Krane, Kenneth: Introductory Nuclear Physics
+
 Griffiths, David J.: Introduction to Elementary Particles
+
 Brian R. Martin, Graham Shaw: Nuclear and Particle Physics: An Introduction, 3rd Edition (2019)
 
 ## Lecture notes
