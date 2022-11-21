@@ -24,7 +24,7 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 - Midterm exam ~ around the 16th of January 2023, 30% of the grade 
 - Final exam ~ around the 7th of March 2023, 30% of the grade
 
-</b> Quiz 1: 22nd November </b> - short conceptual questions, material for preparation: Slides from the first lecture + Chapters 1 - 3.3 from the book Krane, Kenneth: Introductory Nuclear Physics.
+<b> Quiz 1: 22nd November </b> - short conceptual questions, material for preparation: Slides from the first lecture + Chapters 1 - 3.3 from the book Krane, Kenneth: Introductory Nuclear Physics.
 
 ## Recommended books
 
