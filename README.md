@@ -39,5 +39,7 @@ The slides presented in class are in the folder called slides.
 
 Slides will be updated regularly.
 
+The hand written notes that I use in class are entirely based on the recommended books.
+
 ## Contact
 hdenes@yachaytech.edu.ec
