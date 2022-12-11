@@ -26,6 +26,8 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
 <b> Quiz 1: 22nd November </b> - short conceptual questions, material for preparation: Slides from the first lecture + Chapters 1 - 3.3 from the book Krane, Kenneth: Introductory Nuclear Physics.
 
+<b> Quiz 2: 13th December </b> - short conceptual questions, material for preparation: Chapters 3, 4, 5 from the book Krane, Kenneth: Introductory Nuclear Physics.
+
 ## Recommended books
 
 Krane, Kenneth: Introductory Nuclear Physics
