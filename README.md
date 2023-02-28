@@ -1,4 +1,4 @@
-# Nuclear and particle physics yacchay
+# Nuclear and particle physics Yachay
 
 Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
