@@ -36,7 +36,7 @@ Krane, Kenneth: Introductory Nuclear Physics
 
 Griffiths, David J.: Introduction to Elementary Particles
 
-Brian R. Martin, Graham Shaw: Nuclear and Particle Physics: An Introduction, 3rd Edition (2019)
+Perkins, Donald H. Introduction to High Energy Physics
 
 ## Lecture notes
 The slides presented in class are in the folder called slides.
