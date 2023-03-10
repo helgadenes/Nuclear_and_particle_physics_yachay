@@ -1,4 +1,4 @@
-# Nuclear and particle physics yacchay
+# Nuclear and particle physics Yachay
 
 Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
@@ -10,13 +10,8 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 2. Nuclear structure
 3. Nuclear decay and Radioactivity
 4. Nuclear reactions
-5. Relativistic Kinematics 
+5. Elementary particle dynamics
 6. Symmetries
-7. Feynman Calculus	
-8. QED
-9. QCD
-10. Detectors 
-11. Applications
 
 ## Evaluation
 
@@ -29,6 +24,11 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 <b> Quiz 2: 13th December </b> - short conceptual questions, material for preparation: Chapters 3, 4, 5 from the book Krane, Kenneth: Introductory Nuclear Physics.
 
 <b> Midterm: 24th January </b> - short conceptual questions, material for preparation: Chapters 1-5, 6.1, 8, 9.1-9.5, 9.7-9.8, 10.1, 10.4, 10.6, 11.1, 13.1-13.3 from the book Krane, Kenneth: Introductory Nuclear Physics.
+
+<b> Quiz 4: 7th March </b> 
+
+<b> Final exam: 13th March </b> 
+
 
 ## Recommended books
 
