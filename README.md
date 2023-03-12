@@ -27,7 +27,7 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
 <b> Quiz 4: 7th March </b> 
 
-<b> Final exam: 13th March </b> 
+<b> Final exam: 13th March 11am in A05 </b> 
 
 
 ## Recommended books
