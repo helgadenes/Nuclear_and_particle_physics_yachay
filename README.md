@@ -6,7 +6,7 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
 ## Syllabus
 
-1. Introduction - Fermions, Bosons, and Fields	
+1. Introduction 	
 2. Nuclear structure
 3. Nuclear decay and Radioactivity
 4. Nuclear reactions
