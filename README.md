@@ -6,12 +6,12 @@ Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
 ## Syllabus
 
-1. Introduction 	
-2. Nuclear structure
-3. Nuclear decay and Radioactivity
-4. Nuclear reactions
-5. Elementary particle dynamics
-6. Symmetries
+1. Introduction	(Krane, Kenneth: Introductory Nuclear Physics - chapter 1, Griffiths, David J. Introduction to Elementary Particles - chapter 1.11)
+2. Nuclear structure (Krane, Kenneth: Introductory Nuclear Physics - chapter 3 - 5)
+3. Nuclear decay and Radioactivity (Krane, Kenneth: Introductory Nuclear Physics - chapter 6.1, 8 - 10)
+4. Nuclear reactions (Krane, Kenneth: Introductory Nuclear Physics - chapter 13 - 14)
+5. Elementary particle dynamics (Griffiths, David J. Introduction to Elementary Particles - chapter 1.11, 2.1 - 2.4.4)
+6. Symmetries (Griffiths, David J. Introduction to Elementary Particles - chapter 4.1 - 4.3)
 
 ## Evaluation
 
