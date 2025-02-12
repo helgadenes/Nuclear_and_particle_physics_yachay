@@ -2,7 +2,7 @@
 
 Material for the Introduction to Nuclear and Particle Physics course at Yachay
 
-2025 1nd semester
+2025 1st semester
 
 ## Syllabus
 
